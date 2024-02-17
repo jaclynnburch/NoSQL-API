@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 //const morgan = require('morgan');
-const routes = require('./routes');
+const routes = require('./routes/api');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
@@ -11,7 +11,7 @@ const db = require('./config/connection');
 // const { db } = require('./models/thought');
 // const { db } = require('./models/user');
 
-mongoose.connect('mongodb://localhost:3003/' , { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb://localhost:27017/social_network' , { useNewUrlParser: true, useUnifiedTopology: true });
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
