@@ -32,5 +32,11 @@ Create and delete reactions to thoughts.
 
 Add and remove friends to a user’s friend list.
 
+###Demo Viedo's
+
+https://www.loom.com/share/c6fc4ac7a2ec49029cee763e402b9268?sid=74faa46e-af4b-4ca6-afd8-5cdd38851c9a
+
+https://www.loom.com/share/97fa81e6994449c0b409b67d039b5dae?sid=fc924898-6a08-41ff-a50d-5c3ce51dcce7
+
 ##Resources
 Preply tutor, YouTube, https://www.youtube.com/watch?v=4XT23X0Fjfk&list=RDCMUCW5YeuERMmlnqo4oq8vwUpg&start_radio=1&rv=4XT23X0Fjfk&t=0
