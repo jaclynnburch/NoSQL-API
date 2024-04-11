@@ -6,7 +6,7 @@ This project provides a Social Network API with functionality for users, thought
 ### Getting Started
 Clone the repository: git clone https://github.com/jaclynnburch/NoSQL-API.git
 
-##### Usage
+#### Usage
 Starting the Server and Syncing Models
 
 Run the application using the command line.
@@ -32,7 +32,8 @@ Create and delete reactions to thoughts.
 
 Add and remove friends to a user’s friend list.
 
-#### Demo Viedo's
+#### Demo Viedo's 
+(watch at 2.5)
 
 https://www.loom.com/share/c6fc4ac7a2ec49029cee763e402b9268?sid=74faa46e-af4b-4ca6-afd8-5cdd38851c9a
 
